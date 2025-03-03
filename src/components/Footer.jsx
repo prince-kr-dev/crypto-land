@@ -1,4 +1,4 @@
-import Tagline from "./TAgline";
+import Tagline from "./Tagline";
 import Solution from "./Solution";
 import Support from "./Support";
 import Subscribe from "./Subscribe";
